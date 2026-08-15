@@ -22,7 +22,6 @@
 | --- | --- | --- |
 | [📘 Python for Beginners](link-to-repo) | 8-Lesson tutorial + 3 mini projects for absolute beginners | `Python` `Jupyter` |
 | [👁️ Object Detection on Jetson](link-to-repo) | Real-time YOLO + Object Tracking with SORT | `OpenCV` `YOLO` `Jetson` |
-| [📊 Expense Tracker](link-to-repo) | CLI tool to track monthly expenses with CSV export | `Python` `Pandas` |
 
 ---
 
