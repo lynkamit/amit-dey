@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🌱 Currently learning: **Python, OpenCV, YOLO, TensorRT**
+- 🌱 Currently learning: **Python**
 - 🎯 Goal: **Build and deploy Computer Vision projects on Jetson**
 - ✍️ I write tutorials to teach myself and help others
 - 💬 Ask me about: **Python basics, OpenCV, Project setup**
